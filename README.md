@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Akash Samanta and I'm a aspiring Developer, from Kolkata</h2>
+<h2 align="left">Hi 👋! My name is Akash Samanta and I'm a aspiring Developer.</h2>
 
 ###
 
