@@ -51,7 +51,7 @@
   </a>
 </div>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=UnknownUser130&style=for-the-badge&color=blueviolet" alt="visitor badge" />
 </p>
 
