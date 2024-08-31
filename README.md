@@ -55,12 +55,6 @@
   <img src="https://komarev.com/ghpvc/?username=UnknownUser130&style=for-the-badge&color=blueviolet" alt="visitor badge" />
 </p>
 
-<div align="center">
-  <img src="https://github.com/UnknownUser130/UnknownUser130/blob/main/github-metrics.svg" alt="3D Contribution Graph" />
-</div>
-
-
-
 ###
 
 <br clear="both">
