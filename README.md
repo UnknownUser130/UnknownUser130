@@ -52,8 +52,9 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Keep+learning+and+growing!;Code+is+like+humor+%E2%80%94+if+you+have+to+explain+it%2C+it%E2%80%99s+bad." />
+  <img src="https://komarev.com/ghpvc/?username=UnknownUser130&style=for-the-badge&color=blueviolet" alt="visitor badge" />
 </p>
+
 
 ###
 
