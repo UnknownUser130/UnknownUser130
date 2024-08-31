@@ -56,8 +56,9 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yourWakatimeUsername&theme=dark&hide_border=false" height="200" alt="Wakatime Stats" />
+  <img src="https://github.com/UnknownUser130/UnknownUser130/blob/main/github-metrics.svg" alt="3D Contribution Graph" />
 </div>
+
 
 
 ###
