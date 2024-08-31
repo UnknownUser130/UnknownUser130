@@ -55,6 +55,10 @@
   <img src="https://komarev.com/ghpvc/?username=UnknownUser130&style=for-the-badge&color=blueviolet" alt="visitor badge" />
 </p>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yourWakatimeUsername&theme=dark&hide_border=false" height="200" alt="Wakatime Stats" />
+</div>
+
 
 ###
 
