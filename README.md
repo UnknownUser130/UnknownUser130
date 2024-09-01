@@ -12,7 +12,7 @@
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHhxejQycnVlaDE1cHFrNWxsZW8ybmJ4MXBqZGxsNWYyYXQ3d283NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"  />
 
 ###
-<h4>Languages and Tools:</h4>
+<h3>Languages and Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -38,7 +38,7 @@
 </div>
 
 ###
-<h4>Connect with me:</h4>
+<h3>Connect with me:</h3>
 <div align="left">
   <a href="mailto:akashsamanta12d@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
